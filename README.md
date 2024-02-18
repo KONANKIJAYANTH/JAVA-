@@ -1,3 +1,6 @@
 # JAVA-
 Module codes
-Program to read a number from the user and print whether it is positive or negative.
+This was a repository where all my Java programming codes would be published.
+List of publications in JAVA :
+1: Doubly LinkedList 
+2: Matrix 
